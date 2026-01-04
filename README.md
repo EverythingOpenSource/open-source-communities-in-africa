@@ -14,6 +14,7 @@ A list of Open Source communities in Africa
 - [Python Nairobi](https://www.meetup.com/python-nairobi/)
 - [Python Tanzania](https://pythontz.github.io/)
 - [SpaceYaTech](https://linktr.ee/spaceyatech)
+- [Open Source Community Africa Kampala](https://oscakampala.org/home)
 
 ## Northern Africa
 
