@@ -49,6 +49,7 @@ A list of Open Source communities in Africa
 - [Deep Learning Indaba](https://deeplearningindaba.com/2024/indabax/)
 - [Everything Open Source](https://everythingopensource.my.canva.site/)
 - [GNOME Africa](https://wiki.gnome.org/GnomeAfrica)
+- [Linux & Open-Source Lovers Community (LOSL-C)](https://loslc.tech)
 - [Masakhane](https://www.masakhane.io/)
 - [Open Source Community Africa](https://oscafrica.org/)
 - [Python Africa](https://africa.python.org/)
